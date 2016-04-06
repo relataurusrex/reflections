@@ -12,3 +12,8 @@ What value do you think it offers?
 --
 How can you use the staging area to make sure you have one commit per logical change?
   You can use the staging area to add one file out of a collection of files to specify what change you want them to commit
+--
+What are some situations when branches would be helpful in keeping your history organized?
+  Branches are useful when a user would like to create different versions of a project. Also, when a user would like to experiment with a feature he can do this without changing the master build
+How would branches help?
+  Branches create allow users to create multiple versions of a project and maintain version history on them simultaneously 
