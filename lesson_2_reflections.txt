@@ -1,0 +1,11 @@
+What happens when you initialize a repository?
+  A .git repository is created that contains the necessary files to do version control on the parent directory. Remember, this doesn't do a commit. The user needs to do this
+
+Why do you need to do it?
+  This is the setup step so that the user can utilize the git shell commands for version control. A repository is created so that commits can add files/changes from the working directory to the repository
+__
+
+How is the staging area different from the working directory and the repository?
+  The staging area doesn't contain the actual files like the directory and doesn't contain a a record of commits like the repository. Instead it is a temporary place where a user can specify the files whose changes he want commit to the repository
+What value do you think it offers?
+  It means that a user doesn't need to add all of the changes to the files in the directory to a commit. Instead a user can specify the exact file(s) he wants to commit changes. This contributes to employing the concept of one commit per logical change
