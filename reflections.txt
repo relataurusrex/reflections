@@ -1,0 +1,8 @@
+1. What new skills have you learned?
+  I learned how a .html file is structured and the syntax for html elements
+2. What has been easy?
+  Learning the structure of html elements has really easy.
+3. What has been difficult?
+  The attention to details to replicate the mock-up exactly has been a little difficult.
+4. How have you used the problem solving strategies from the first project to overcome challenges so far?
+  Being more comfortable to looking up information on the W3C html website has been very helpful in tackling the challenges of the assignments. 
