@@ -13,3 +13,7 @@ Describe the differences between forks, clones, and branches. When would you use
   Clones: Creates a copy of a GitHub or local repository and in a new repository. Use this when you want to work on a GitHub repository so you can modify the files locally
   Branches: Creates a different version of a project, allows a user to create a distinct commit history. Use when you want to experiment or create a different version of the code without affecting the master branch.
 --
+What is the benefit of having a copy of the last known state of the remote stored locally?
+  - Offline work. A user can work offline and merge commits to the local origin/master
+  - Simplicity. Doesn't require complex code on GitHub when its required to merge changes on a local file with the remote
+-- 
