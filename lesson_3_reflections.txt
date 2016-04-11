@@ -20,3 +20,6 @@ What is the benefit of having a copy of the last known state of the remote store
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
   I would collaborate on a file storage service like Dropbox or Drive. It would be easy initially to setup and start working. But working on the same code at the same time would be difficult/impossible and reverting code would be difficult.
 --
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+  If you want to manage commits via pull requests. You can more easily manage commits in a structured way
+--
